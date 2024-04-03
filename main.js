@@ -4,7 +4,7 @@ const config = require("config");
 const fs = require("fs");
 const path = require("path");
 
-fs.writeFileSync("myFile.txt", "My data for writing");
+// fs.writeFileSync("myFile.txt", "My data for writing");
 
 const colors = require("colors");
 
